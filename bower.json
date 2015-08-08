@@ -1,0 +1,10 @@
+{
+  "name": "sho-test",
+  "version": "1.0.0",
+  "authors": [
+    "Alexandr Nesterenko <kurtec90@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
